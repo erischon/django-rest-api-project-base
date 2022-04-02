@@ -15,6 +15,7 @@ My Django REST API base project.
 - Black
 - Pytest
 - Coverage
+- Settings folder
 ### REST API
 - Django Rest Framework
 - CORS Headers
@@ -23,3 +24,9 @@ My Django REST API base project.
 - Django Debug Toobar
 - Django Extensions
 
+## Versions
+### 1.0
+- Clean Code & Layout
+- REST API
+- Testing
+- Utils
