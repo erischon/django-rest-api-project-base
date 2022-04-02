@@ -12,10 +12,10 @@ django-cors-headers = "*"
 
 [dev-packages]
 black = "*"
-django-debug-toolbar = "*"
 flake8 = "*"
 coverage = "*"
 pytest-django = "*"
+django-debug-toolbar = "*"
 
 [requires]
 python_version = "3.10"
