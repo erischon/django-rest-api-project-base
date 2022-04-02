@@ -1,0 +1,11 @@
+# Divers
+__pycache__
+db.sqlite3
+
+# Environment
+.venv
+.env
+
+# Testing and utils
+.coverage
+htmlcov
