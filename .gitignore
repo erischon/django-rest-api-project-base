@@ -9,3 +9,4 @@ db.sqlite3
 # Testing and utils
 .coverage
 htmlcov
+.pytest_cache
