@@ -9,4 +9,4 @@ exclude =
     config
 
 ignore =
-    E501,
+    E501, F401
