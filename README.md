@@ -2,7 +2,8 @@
 
 ### 
 
-- [] new folder: .venv
-- [] new file: .env
-- [] pipenv shell
-- [] pipenv install
+- [ ] new folder: .venv
+- [ ] new file: .env with SECRET_KEY = ...
+- [ ] pipenv shell
+- [ ] pipenv install --dev
+
