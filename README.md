@@ -1,5 +1,7 @@
 # My Django REST API Base Template
 
+My Django REST API base project.
+
 ## Installing
 
 - [ ] new folder: .venv
