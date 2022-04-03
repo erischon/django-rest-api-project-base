@@ -25,6 +25,8 @@ My Django REST API base project.
 - Django Extensions
 
 ## Versions
+### 2.1
+- UUID for User PK
 ### 2.0
 - Custom User Model
 ### 1.0
