@@ -8,6 +8,7 @@ My Django REST API base project.
 - [ ] new file: .env with SECRET_KEY = ...
 - [ ] pipenv shell
 - [ ] pipenv install --dev
+- [ ] python manage.py runserver
 
 ## Content
 ### Clean Code & Testing
@@ -25,9 +26,9 @@ My Django REST API base project.
 - Django Extensions
 
 ## Versions
-### 2.1
+### 1.2
 - UUID for User PK
-### 2.0
+### 1.1
 - Custom User Model
 ### 1.0
 - Clean Code & Layout
